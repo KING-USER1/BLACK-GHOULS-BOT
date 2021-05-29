@@ -98,7 +98,7 @@
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running  https://repl.it/@lucifeermorning/DevilUserBot#main.py ",
-      "value": "336323518"
+      "value": ""
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
