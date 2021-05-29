@@ -6,7 +6,7 @@ from telethon.events import NewMessage
 from telethon.tl.custom import Dialog
 from telethon.tl.types import Channel, Chat, User
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "DevilUserBot User"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "BLACK GHOULS UserBot User"
 
 PM_IMG = Config.ALIVE_PIC
 
@@ -15,11 +15,11 @@ ludosudo = Config.SUDO_USERS
 if ludosudo:
     sudou = "True"
 else:
-    sudou = "False"
+    sudou = "True"
 
 kraken = bot.uid
 
-pm_caption = "__**🔥🔥𝙳𝚎𝚟𝚒𝚕 υѕєявσт ιѕ ση ƒιяє🔥🔥**__\n\n"
+pm_caption = "__**🔥🔥GHOULS υѕєявσт ιѕ ση ƒιяє🔥🔥**__\n\n"
 
 pm_caption += (
     f"               __↼🄼🄰🅂🅃🄴🅁⇀__\n**『[{DEFAULTUSER}](tg://user?id={kraken})』**\n\n"
@@ -33,11 +33,11 @@ pm_caption += f"ĐɆVłⱠ฿Ø₮ VɆⱤ₴łØ₦:  __**D.0**__\n"
 
 pm_caption += f"sᴜᴅᴏ            : `{sudou}`\n"
 
-pm_caption += "ꇙ꒤ꉣꉣꄲꋪ꓄ ꍌꋪꄲ꒤ꉣ  : [ᴊᴏɪɴ](https://t.me/deviluserbot)\n"
+pm_caption += "ꇙ꒤ꉣꉣꄲꋪ꓄ ꍌꋪꄲ꒤ꉣ  : [ᴊᴏɪɴ](GHOULS MA AJA)\n"
 
-pm_caption += "𝙲𝚛𝚎𝚊𝚝𝚘𝚛    : [Click Here](https://t.me/lucifeermorningstar)\n\n"
+pm_caption += "𝙲𝚛𝚎𝚊𝚝𝚘𝚛    : [KING COBRA OP]()\n\n"
 
-pm_caption += "    [✨REPO✨](https://github.com/lucifeermorningstar/deviluserbot) 🔹 [📜License📜](https://github.com/lucifeermorningstar/deviluserbot/blob/master/LICENSE)"
+pm_caption += "    [✨REPO✨](https://telegra.ph/file/d66780ea8f868d037cc9a.jpg) 🔹 [📜License📜](https://github.com/KING-USER1/BLACK-GHOULS-BOT/blob/master/LICENSE)"
 
 
 
