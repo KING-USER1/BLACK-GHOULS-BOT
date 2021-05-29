@@ -29,12 +29,12 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .hell Command.",
-      "value": "",
+      "value": "GHOULS OP",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .hell command.",
-      "value": "",
+      "value": "https://telegra.ph/file/d66780ea8f868d037cc9a.jpg",
       "required": false
     },
     "BIO_MSG": {
