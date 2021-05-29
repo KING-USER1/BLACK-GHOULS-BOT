@@ -1,7 +1,7 @@
 {
-  "name": "Dèvílẞø†",
-  "description": "The best userbot made by @lucifeermorningstar. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @DevilUserBot ",
-  "logo": " https://telegra.ph/file/fbe697363d312fec4b671.jpg ",
+  "name": "GHÓULSẞø†",
+  "description": "The best userbot made by cobra. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @DevilUserBot ",
+  "logo": " https://telegra.ph/file/d66780ea8f868d037cc9a.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/lucifeermorningstar/Devil-User-Bot",
-  "website": "https://github.com/lucifeermorningstar/Devil-User-Bot",
-  "success_url": "https://t.me/DevilUserBot",
+  "repository": "https://github.com/lucifeermorningstar/deviluserbot",
+  "website": "https://github.com/lucifeermorningstar/deviluserbot",
+  "success_url": "",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
